@@ -20,4 +20,16 @@
 		<nature>org.eclipse.jdt.core.javanature</nature>
 		<nature>org.eclipse.buildship.core.gradleprojectnature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>Screenshots/螢幕截圖 2022-03-02 上午3.15.41.png</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Desktop/%E8%9E%A2%E5%B9%95%E6%88%AA%E5%9C%96%202022-03-02%20%E4%B8%8A%E5%8D%883.15.41.png</locationURI>
+		</link>
+		<link>
+			<name>Screenshots/螢幕截圖 2022-03-02 上午3.17.09.png</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Desktop/%E8%9E%A2%E5%B9%95%E6%88%AA%E5%9C%96%202022-03-02%20%E4%B8%8A%E5%8D%883.17.09.png</locationURI>
+		</link>
+	</linkedResources>
 </projectDescription>
